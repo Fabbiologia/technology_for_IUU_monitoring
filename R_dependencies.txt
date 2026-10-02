@@ -1,0 +1,12 @@
+# R dependencies for reproducing the figures.
+# Tested on R 4.3+.
+#
+# Install from R with:
+#   install.packages(c("tidyverse","sf","viridis","scales","patchwork","ggrepel"))
+
+tidyverse        # dplyr, ggplot2, readr, tibble, tidyr, forcats, purrr
+sf               # spatial data (Figure 1 map only — requires GeoPackage; see README)
+viridis          # color scales
+scales           # rescale, comma formatting
+patchwork        # combining figure panels
+ggrepel          # repelling text labels

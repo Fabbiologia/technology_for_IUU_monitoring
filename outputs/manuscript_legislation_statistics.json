@@ -1,0 +1,17 @@
+{
+  "n_countries": 15,
+  "n_documents": 119,
+  "mean_score": 47.0,
+  "median_score": 47,
+  "best_country": "Republic of Maldives",
+  "best_score": 67,
+  "worst_country": "Ecuador",
+  "worst_score": 19,
+  "dimension_means": {
+    "evidence": 10.9,
+    "penalty": 13.2,
+    "enforcement": 9.1,
+    "technology": 5.7,
+    "liability": 8.1
+  }
+}

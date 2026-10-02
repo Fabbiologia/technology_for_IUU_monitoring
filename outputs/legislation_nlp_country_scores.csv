@@ -1,0 +1,16 @@
+iso3,country,n_documents,nlp_evidence,nlp_penalty,nlp_enforcement,nlp_technology,nlp_liability,nlp_currency,nlp_total,n_fisheries_relevant
+AUS,Australia,3,10,4,3,0,9,10,36,2
+CAN,Canada,9,10,14,9,0,9,10,52,4
+CHL,Chile,1,0,0,3,0,3,2,8,1
+ECU,Ecuador,8,6,7,6,8,3,8,38,2
+ESP,Spain,10,0,4,3,0,3,8,18,6
+GAB,Gabon,11,10,0,3,0,3,4,20,6
+GRC,Greece,7,16,8,8,11,6,2,51,6
+IDN,Indonesia,11,14,12,9,12,9,10,66,11
+ITA,Italy,10,6,4,0,0,3,8,21,4
+MDV,Republic of Maldives,14,6,17,11,8,3,10,55,7
+MEX,Mexico,8,6,0,6,0,6,4,22,4
+MYS,Malaysia,8,12,11,8,0,12,8,51,7
+NZL,New Zealand,9,6,13,11,12,6,10,58,8
+PAN,Panama,2,0,4,9,0,3,10,26,2
+ZAF,South Africa,8,6,4,6,6,3,8,33,1

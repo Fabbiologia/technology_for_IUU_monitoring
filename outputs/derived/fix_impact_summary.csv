@@ -1,0 +1,8 @@
+fix_name,impact_per_site,n_sites_applicable,pct_sites_applicable
+reporting_requirement,10,9713,99.7
+monitoring_reference,10,9375,96.3
+remove_discretion,15,5942,61.0
+clear_prohibition,20,3100,31.8
+vessel_id,10,3704,38.0
+evidence_pathway,5,6210,63.8
+temporal_scope,5,3154,32.4

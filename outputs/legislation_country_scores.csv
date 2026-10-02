@@ -1,0 +1,16 @@
+iso3,country,n_documents,evidence_score,penalty_score,enforcement_score,technology_score,liability_score,n_fisheries_relevant,total_score
+AUS,Australia,3,11,12,10,0,10,2,43
+CAN,Canada,9,15,22,13,0,13,4,63
+CHL,Chile,1,11,15,13,4,10,1,53
+ECU,Ecuador,8,0,7,4,4,4,2,19
+ESP,Spain,10,7,12,4,0,7,6,30
+GAB,Gabon,11,7,4,4,0,4,6,19
+GRC,Greece,7,18,9,9,12,7,6,55
+IDN,Indonesia,11,11,12,7,12,4,11,46
+ITA,Italy,10,11,18,7,4,4,6,44
+MDV,Republic of Maldives,14,11,19,15,12,10,7,67
+MEX,Mexico,8,7,7,7,3,7,5,31
+MYS,Malaysia,8,13,19,13,0,14,7,59
+NZL,New Zealand,9,17,15,13,12,7,8,64
+PAN,Panama,2,13,12,10,16,14,2,65
+ZAF,South Africa,8,11,15,7,7,7,2,47

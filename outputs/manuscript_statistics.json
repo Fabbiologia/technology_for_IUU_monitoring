@@ -1,0 +1,44 @@
+{
+  "analysis_date": "2026-09-02",
+  "sample": {
+    "n_mpas": 9740,
+    "n_countries": 15,
+    "countries": [
+      "Australia",
+      "Canada",
+      "Chile",
+      "Ecuador",
+      "Gabon",
+      "Greece",
+      "Indonesia",
+      "Italy",
+      "Malaysia",
+      "Mexico",
+      "New Zealand",
+      "Panama",
+      "Republic of Maldives",
+      "South Africa",
+      "Spain"
+    ]
+  },
+  "current_state": {
+    "mean_preparedness": 33.1,
+    "median_preparedness": 33.4,
+    "sd_preparedness": 17.1,
+    "pct_poorly_prepared": 39.1,
+    "pct_well_prepared": 0.0
+  },
+  "language_analysis": {
+    "pct_with_prohibition": 68.2,
+    "pct_with_monitoring_ref": 3.7,
+    "pct_with_evidence_pathway": 36.2,
+    "pct_with_vessel_ref": 38.7,
+    "pct_with_reporting_req": 0.3,
+    "pct_with_ambiguous": 61.0
+  },
+  "improvement_potential": {
+    "mean_improvement": 42.8,
+    "mean_after_fixes": 75.9,
+    "pct_increase": 129.3
+  }
+}
